@@ -1,6 +1,6 @@
 # Developing-Data-Products-R-Markdown-Presentation-Plotly
 
-## This is a repo with the gh-pages branch. The HTML page can be viewed online by clicking [on this Github Pages link.](https://github.com/tkprajagopal/R-Markdown-Presentation-Plotly/Plotly.html)
+## This is a repo with the gh-pages branch. The HTML page can be viewed online by clicking [on this Github Pages link.](https://aniruddhachakraborty.github.io/Developing-Data-Products-R-Markdown-Presentation-Plotly/Plotly.html)
 
 ## R markdown and compiled HTML (Source code) files can be found in the repository itself.
 
